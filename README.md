@@ -49,6 +49,8 @@ Summary tables: top differentiating questions, and Ideal_Price by segment.
 **Cluster means in original units (Likert + $)**
 <img width="800" height="278" alt="image" src="https://github.com/user-attachments/assets/00a89130-7c97-4b62-976d-5064e4826f07" />
 
+**Top differentiating questions**
+<img width="800" height="260" alt="image" src="https://github.com/user-attachments/assets/53eb9d9e-c614-40c0-9927-b9085337fce6" />
 
 
 1-2 line names + narratives
