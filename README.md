@@ -2,15 +2,15 @@
 Four distinct clusters emerged with clear psychographic and price-tolerance differences.
 
 Cluster 1 - Tech-Forward Stylists (21%): Leads on **trending style/design** (Q9-11) and **self-expression (Q12-14)**, followed by moderate interest in **latest tech, quality, and the driving experience** (Q1-Q8). They also show an above-average ideal price and place less weight on heritage/character cues (Q15-Q17).
-Actions: Design and feature-led creative; couple language supporting advanced tech with sleek visuals
+Actions: Design and feature-led creative; couple language supporting advanced tech with sleek visuals.
 
-Cluster 2 - Value-First Convenience Seekers (43%): Low on ideal price and importance of tech (Q1). Below average on style/design (Q9-Q11), self-expression (Q12-Q14). Prioritize affordability and practicality above all else.
-Actions: Base models; messaging around price and cost of ownership
+Cluster 2 - Value-First Convenience Seekers (43%): Defined by **low ideal price** (cost-sensitive buyers) as well as a **lower interest in tech and driving performance** (Q1-Q8). They are also below average on style/design (Q9-Q11) and self-expression (Q12-Q14), and show limited pull from heritage/character (Q15-Q17). Prioritize affordability and practicality above all else.
+Actions: Base models; messaging around reliability of price and cost of ownership.
 
-Cluster 3 - Heritage & Character Loyalists (24%): High on ideal price and domestic/heritage/character (Q15-Q17). Low on latest tech (Q1), quality/reliability (Q2), and performance/driving experience (Q4-Q8). Near average on style/design (Q9-Q11) and self-expression (Q12-Q14). Willing to pay a premium for heritage car
-Actions: Brand storytelling, limited editions, authenticity cues, niche community/cult following content, avoid emphasis on spec
+Cluster 3 - Heritage & Character Loyalists (24%): Highest on **domestic/heritage/character** (Q15-Q17) with a high willingness to pay. They sit near average on style and self-expression (Q9-Q14) but lower on latest tech and driving performance (Q1-Q8). 
+Actions: Emphasis on brand storytelling and authenticity cues; limited/heritage editions, niche community/cult following content, avoid emphasis on specs.
 
-Cluster 4 - Performance-Reliability Realists (11%): High on ideal price, latest tech (Q1), quality/reliability (Q2), and performance/drive experience (Q4-Q8). Below average on style/design (Q9-Q11) and self-expression (Q12-Q14). Near average on ideal price. 
+Cluster 4 - Performance-Reliability Realists (11%): Strongest on latest tech, quality/reliability, and ride/handling/performance (Q1-Q8). Ideal price sits around average, while style/self-expression (Q9-Q14) fall below average.
 Actions: Feature-led marketing; focus on pragmatic elements such as performance and user experience. 
 
 Leverage customer testimonials as reliability proof points. Feature-led creative
