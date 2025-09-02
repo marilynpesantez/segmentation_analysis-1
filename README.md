@@ -39,12 +39,6 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 - Produced cluster centers in both standardized units and original units
 - Validation: k=4 displayed interpretable cluster profiles sanity checks and stability (re-seed/nearby k)
 
-
-# Interpretation & Profiles
-I profiled clusters using both standardized centers (z-scores) and original-unit means (Likert 1–7; Ideal_Price in $1,000s). For each cluster, I interpreted standardized loading to identify defining attributes and translated those patterns into psychographic/price tolerance profiles. I have listed actionable next steps (product, pricing, marketing) for each cluster.
-
-Summary tables: top differentiating questions, and Ideal_Price by segment.
-
 **Cluster means in standardized units (z-scores):**
 <p align="center">
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/f7e79f3e-464d-4004-80cb-9e6297d960f8" />
@@ -59,6 +53,10 @@ Summary tables: top differentiating questions, and Ideal_Price by segment.
 <p align="center">
 <img width="800" height="260" alt="image" src="https://github.com/user-attachments/assets/53eb9d9e-c614-40c0-9927-b9085337fce6" />
 </p>
+
+
+# Interpretation & Profiles
+I profiled clusters using both standardized centers (z-scores) and original-unit means (Likert 1–7; Ideal_Price in $1,000s). For each cluster, I interpreted standardized loading to identify defining attributes and translated those patterns into psychographic/price tolerance profiles. I have listed actionable next steps (product, pricing, marketing) for each cluster.
 
 
 1-2 line names + narratives
