@@ -1,7 +1,7 @@
 # Executive Summary
 Four distinct clusters emerged with clear psychographic and price-tolerance differences.
 
-Cluster 1 - Tech-Forward Stylists (21%): Leads on **trending style/design** (Q9-11) and **self-expression (Q12-14)**, followed by moderate interest in **latest tech, quality, and the driving experience** (Q1-Q8). They also show an above-average ideal price and place less weight on heritage/character cues (Q15-Q17).
+Cluster 1 - Tech-Forward Stylists (21%): Leads on **trending style/design and self-expression (Q9-14)**, followed by moderate interest in **latest tech and the driving experience** (Q1-Q8). They also show an above-average ideal price and place less weight on heritage/character cues (Q15-Q17).
 Actions: Design and feature-led creative; couple language supporting advanced tech with sleek visuals.
 
 Cluster 2 - Value-First Convenience Seekers (43%): Defined by **low ideal price** (cost-sensitive buyers) as well as a **lower interest in tech and driving performance** (Q1-Q8). They are also below average on style/design (Q9-Q11) and self-expression (Q12-Q14), and show limited pull from heritage/character (Q15-Q17). Prioritize affordability and practicality above all else.
