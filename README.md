@@ -24,20 +24,31 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 
 
 # Methodology
-(1) Preprocessed the data: Standardized features (Ideal_Price + Likert) using StandardScale to equalize scales
+**(1) Preprocess data:** Standardized features (Ideal_Price + Likert) using StandardScale to equalize scales
 
-(2) Determined the optimal k value:
+**(2) Determine optimal k value:**
 - Ran k-means (scikit-learn) with k=2 to k=10
 - Used elbow method in assessing (within-SS) and between/total% (explained variance) to spot boost in fit and. k=4 displayed a clear elbow and interpretable clusters
 - Table of k, total_within_SS, between/total%.
 K=4 gave a strong drop in within-SS and +18.88pp explained variance over k=3
 
-(3) Ran the K-means algorithm with k=4
+**(3) Ran the K-means algorithm with k=4**
+- Produced cluster centers in both standardized units and original units
 - Validation: profile sanity checks; stability (re-seed/nearby k)
 
-# Segment Profiles
-Table with means in original units (Likert + $)
+
+# Interpretation & Profiles
+I profiled clusters using both standardized centers (z-scores) and original-unit means (Likert 1–7; Ideal_Price in $1,000s). For each cluster, I ordered variables by their standardized loading (descending) to highlight defining attributes. I then translated those patterns into psychographic/price tolerance profiles and have listed actionable next steps (product, pricing, marketing). 
+
+Summary tables: cluster centers (original units), top differentiating questions, and Ideal_Price by segment.
+
+**Table with means in original units (Likert + $)**
 1-2 line names + narratives
+Report cluster centers in both standardized units and original units (Likert & $), listing attributes in descending order of each cluster’s strongest loadings to emphasize what defines them.
+
+Compute segment size (% of respondents) and Ideal_Price deltas vs overall mean for price tolerance.
+
+(Optional validation) Compare Purchase rates by segment post-hoc to check directional lift.
 
 # Insights and Recommendations
 Product
