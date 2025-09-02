@@ -1,5 +1,5 @@
 # Background
-This project applies customer segmentation to the new-car market using survey responses in car_data_csv. Each row marks a unique respondent with:
+This project applies customer segmentation to the new-car market using survey responses in car_data.csv. Each row marks a unique respondent with:
 - Ideal_price: intended spend (in increments of $1,000)
 - Q1-Q17: 1-7 Likert-scale agreement covering psychographic attitudes towards technology, quality/reliability, driving experience (ride, handling, performance), style/self-expression, and domestic/heritage/character.
 - Purchase (0/1): binary observation; equals 1 if the customer purchased a car within six months after completing the survey and equals 0 otherwise. 
