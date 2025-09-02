@@ -28,14 +28,14 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 
 **(2) Determine optimal k value:**
 - Ran k-means (scikit-learn) with k=2 to k=10
-- Used elbow method in assessing (within-SS) and between/total% (explained variance) to spot boost in fit and. k=4 displayed a clear elbow and interpretable clusters
-- K=4 gave a strong drop in within-SS and +18.88pp explained variance over k=3
+- Used elbow method to assess fit by pin-pointing drop in within-SS and rise in between/total% (explained variance)
+- K=4 displayed a clear elbow with a strong drop in within-SS and +16.027pp increase explained variance from k=3. 
 <img width="998" height="732" alt="image" src="https://github.com/user-attachments/assets/80643398-91bb-4166-a15b-0bd80e303d83" />
 
 
 **(3) Ran the K-means algorithm with k=4**
 - Produced cluster centers in both standardized units and original units
-- Validation: profile sanity checks; stability (re-seed/nearby k)
+- Validation: k=4 displayed interpretable cluster profiles sanity checks and stability (re-seed/nearby k)
 
 
 # Interpretation & Profiles
