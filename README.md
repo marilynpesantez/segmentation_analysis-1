@@ -30,7 +30,7 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 - Ran k-means (scikit-learn) with k=2 to k=10
 - Assessed fit by using elbow method to spot drop in within-cluster sum of squares
 - K=4 displayed a clear elbow with a strong drop in within-SS as well as a +16.027pp increase in between/total% (explained variance) from k=3. 
-<img width="998" height="732" alt="image" src="https://github.com/user-attachments/assets/80643398-91bb-4166-a15b-0bd80e303d83" />
+<img width="600" height="440" alt="image" src="https://github.com/user-attachments/assets/80643398-91bb-4166-a15b-0bd80e303d83" />
 
 
 **(3) Ran the K-means algorithm with k=4**
