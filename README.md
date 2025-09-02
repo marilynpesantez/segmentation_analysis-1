@@ -1,3 +1,12 @@
+# Background
+This project applies customer segmentation to the new-car market using survey responses in car_data_csv. Each row marks a unique respondent with:
+- Ideal_price: intended spend (in increments of $1,000)
+- Q1-Q17: 1-7 Likert-scale agreement covering psychographic attitudes towards technology, quality/reliability, driving experience (ride, handling, performance), style/self-expression, and domestic/heritage/character.
+- Purchase (0/1): Binary observation; Equals 1 if the customer purchased a car within six months after completing the survey and equals 0 otherwise. 
+
+The objective of this project is to identify distinct consumer segments from psychographic attributes and willingness to pay to inform product, pricing, and marketing strategy.
+
+
 # Executive Summary
 Four distinct clusters emerged with clear psychographic and price-tolerance differences.
 
@@ -14,5 +23,21 @@ Cluster 4 - Performance-Reliability Realists (11%): Strongest on **latest tech, 
 Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, handling); pragmatic tone and language.
 
 
+# Methodology
+Preprocessing: Standardized features (Ideal_Price + Likert) using StandardScale to equalize scales
 
+Model: 
+- Algorithm: Ran k-means (scikit-learn) from k=2 to k=10 with a number of random initializations
+- Model selection: Assessed Elbow (within-SS) and between/total% (explained variance)
+Validation: profile sanity checks; stability (re-seed/nearby k)
+- Final selection: k=4 (clear elbow and interpretable clusters)
 
+How I Chose k
+Table of k, total_within_SS, between/total%.
+K=4 gave a strong drop in within-SS and +18.88pp explained variance over k=3
+
+Segment Profiles
+Table with means in original units (Likert + $)
+1-2 line names + narratives
+
+Recommendations (by team)
