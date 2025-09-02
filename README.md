@@ -4,7 +4,7 @@ This project applies customer segmentation to the new-car market using survey re
 - Q1-Q17: 1-7 Likert-scale agreement covering psychographic attitudes towards technology, quality/reliability, driving experience (ride, handling, performance), style/self-expression, and domestic/heritage/character.
 - Purchase (0/1): binary observation; equals 1 if the customer purchased a car within six months after completing the survey and equals 0 otherwise. 
 
-The objective of this project is to identify distinct consumer segments from psychographic attributes and willingness to pay to inform product, pricing, and marketing strategy.
+The objective of this project is to **identify distinct consumer segments** from psychographic attributes and willingness to pay to inform product, pricing, and marketing strategy.
 
 
 # Executive Summary
