@@ -24,20 +24,23 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 
 
 # Methodology
-Preprocessing: Standardized features (Ideal_Price + Likert) using StandardScale to equalize scales
+Preprocessed the data: Standardized features (Ideal_Price + Likert) using StandardScale to equalize scales
 
-Model: 
-- Algorithm: Ran k-means (scikit-learn) from k=2 to k=10 with a number of random initializations
-- Model selection: Assessed Elbow (within-SS) and between/total% (explained variance)
-Validation: profile sanity checks; stability (re-seed/nearby k)
-- Final selection: k=4 (clear elbow and interpretable clusters)
-
-How I Chose k
-Table of k, total_within_SS, between/total%.
+Determined the optimal k value:
+-   Ran k-means (scikit-learn) with k=2 to k=10
+-   Used elbow method in assessing (within-SS) and between/total% (explained variance) to spot boost in fit and. k=4 displayed a clear elbow and interpretable clusters
+-   Table of k, total_within_SS, between/total%.
 K=4 gave a strong drop in within-SS and +18.88pp explained variance over k=3
 
-Segment Profiles
+Ran the K-means algorithm: 
+- Applied the algorithm with k=4 to segment customers
+- Validation: profile sanity checks; stability (re-seed/nearby k)
+
+# Segment Profiles
 Table with means in original units (Likert + $)
 1-2 line names + narratives
 
-Recommendations (by team)
+# Insights and Recommendations
+Product
+Pricing
+Brand Messaging
