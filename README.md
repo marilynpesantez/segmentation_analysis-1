@@ -30,7 +30,9 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 - Ran k-means (scikit-learn) with k=2 to k=10
 - Assessed fit by using elbow method to spot drop in within-cluster sum of squares
 - K=4 displayed a clear elbow with a strong drop in within-SS as well as a +16.027pp increase in between/total% (explained variance) from k=3. 
+<p align="center">
 <img width="600" height="440" alt="image" src="https://github.com/user-attachments/assets/80643398-91bb-4166-a15b-0bd80e303d83" />
+</p>
 
 
 **(3) Ran the K-means algorithm with k=4**
@@ -49,10 +51,14 @@ Summary tables: top differentiating questions, and Ideal_Price by segment.
 </p>
 
 **Cluster means in original units (Likert + $)**
+<p align="center">
 <img width="800" height="278" alt="image" src="https://github.com/user-attachments/assets/00a89130-7c97-4b62-976d-5064e4826f07" />
+</p>
 
 **Top differentiating questions**
+<p align="center">
 <img width="800" height="260" alt="image" src="https://github.com/user-attachments/assets/53eb9d9e-c614-40c0-9927-b9085337fce6" />
+</p>
 
 
 1-2 line names + narratives
