@@ -56,7 +56,7 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 
 
 # Interpretation & Profiles
-I profiled clusters using both standardized centers (z-scores) and original-unit means (Likert 1–7; Ideal_Price in $1,000s). For each cluster, I interpreted standardized loading to identify defining attributes and translated those patterns into psychographic/price tolerance profiles. I have listed actionable next steps (product, pricing, marketing) for each cluster.
+For each cluster, I interpreted standardized loading to identify defining attributes and translated those patterns into psychographic/price tolerance profiles. I have listed actionable next steps (product, pricing, marketing) for each cluster.
 
 
 1-2 line names + narratives
