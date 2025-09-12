@@ -71,13 +71,13 @@ Profile: Low Ideal_Price (cost-sensitive) comes first. They show less interest i
 - Product & pricing: Base/entry trims, value packs, service incentives; emphasize TCO and reliability.
 - Next tests: Offer-led experiments (APR, cash back) by segment; track uptake vs margin.
 
-**Cluster 3 — Heritage & Character Loyalists (24%)**
+**Cluster 3 — Heritage & Character Loyalists (11%)**
 Profile: Highest on domestic/heritage/character (Q15–Q17) and premium price tolerance [+$28.9k vs avg]. They’re near average on style/self-expression (Q9–Q14) but lower on latest tech and drive/performance (Q1–Q8). Identity and provenance matter more than specs.
 - Positioning & creative: Brand storytelling, craftsmanship, provenance; community/cult-following content; lean into authenticity.
 - Product & pricing: Limited/heritage editions, collectible options, branded accessories, loyalty programs.
 - Next tests: Story-led vs spec-led creatives; measure engagement, accessory attach, and high-margin package mix.
 
-**Cluster 4 — Performance-Reliability Realists (11%)**
+**Cluster 4 — Performance-Reliability Realists (24%)**
 Profile (what defines them): Strongest on tech + quality/reliability + ride/handling/performance (Q1–Q8). Ideal_Price is about average [≈ $29.8k], while style/self-expression (Q9–Q14) and heritage (Q15–Q17) are less influential. They value how the car drives and holds up.
 - Positioning & creative: Proof-heavy messaging — safety data, reliability stats, handling/road-feel demos; pragmatic tone.
 - Product & pricing: Mid→upper functional trims (performance & safety packages); extended-warranty angles.
