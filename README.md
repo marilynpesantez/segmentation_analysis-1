@@ -22,7 +22,7 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 -   Q1-Q17: 1-7 Likert-scale agreement with statements about technology, quality/reliability, driving experience (ride, handling, performance), style/self-expression, and domestic/heritage/character.
 -   Purchase (0/1): Binary observation; equals 1 if the customer purchased a car within six months after completing the survey and equals 0 otherwise.
 
-### Clustering workflow
+### Clustering Analysis in Python
 **(1) Preprocess data:** Standardized features (Ideal_Price + Likert) using StandardScale to equalize scales
 
 **(2) Determine optimal k value:**
