@@ -7,7 +7,7 @@ The objective of this project is to **identify distinct consumer segments** from
 # 2. Executive Summary
 Four distinct clusters emerged with clear psychographic and price-tolerance differences.
 
-## Segment Overview
+### Segment Overview
 - Cluster 1 - Tech-Forward Stylists (21%): Leads on **trending style/design and self-expression (Q9-14)**, followed by moderate interest in **latest tech and the driving experience** (Q1-Q8). They also show an above-average ideal price ($40k) and place less weight on heritage/character cues (Q15-Q17).
 Actions: Design and feature-led creative; couple language supporting advanced tech with sleek visuals.
 - Cluster 2 - Value-First Convenience Seekers (43%): Defined by cost-sensitive buyers with a **low ideal price** ($20k) and a **lower interest in tech and driving performance** (Q1-Q8). They are also below average on style/design and self-expression (Q9-Q14), and show limited pull from heritage/character (Q15-Q17). Prioritize affordability and practicality above all else.
