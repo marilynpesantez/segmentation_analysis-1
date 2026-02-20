@@ -1,8 +1,5 @@
 # 1. Overview
-Objective: This project applies customer segmentation to the new-car market using survey responses in car_data.csv. 
-
-The objective of this project is to **identify distinct consumer segments** from psychographic elements and willingness to pay to inform product, pricing, and marketing strategy.
-
+This project applies customer segmentation to the new-car market using survey responses in car_data.csv. The objective of this project is to **identify distinct consumer segments** from psychographic elements and willingness to pay to inform product, pricing, and marketing strategy.
 
 # 2. Executive Summary
 Four distinct clusters emerged with clear psychographic and price-tolerance differences.
