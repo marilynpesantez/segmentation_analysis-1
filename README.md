@@ -18,12 +18,14 @@ Actions: Emphasis on brand storytelling with authenticity cues; push limited/her
 Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, handling); pragmatic tone and language.
 
 
-# 3. Variables for Clustering
+# 3. Segmentation
+
+## Variables for Clustering
 - Ideal_price: Intended spend (in increments of $1,000)
 -   Q1-Q17: 1-7 Likert-scale agreement with statements about technology, quality/reliability, driving experience (ride, handling, performance), style/self-expression, and domestic/heritage/character.
 -   Purchase (0/1): Binary observation; equals 1 if the customer purchased a car within six months after completing the survey and equals 0 otherwise.
 
-# 5. Clustering workflow
+## Clustering workflow
 **(1) Preprocess data:** Standardized features (Ideal_Price + Likert) using StandardScale to equalize scales
 
 **(2) Determine optimal k value:**
@@ -54,31 +56,29 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 </p>
 
 
-# 6. Cluster Profiles & Emplications
+# 4. Cluster Profiles & Emplications
 For each cluster, I interpreted cluster means to identify defining attributes and translated those patterns into psychographic and price tolerance profiles. I also outline actionable next steps across product, pricing, and marketing.
 
-**Cluster 1 — Tech-Forward Stylists (21%)**
+## Cluster 1 — Tech-Forward Stylists (21%)
 Profile: Lead on trending style/design & self-expression (Q9–Q14). The car is part of personal identity, followed by a strong interest in having the latest tech and enjoying the driving experience (Q1–Q8). They also show above-average Ideal_Price [+$9.0k vs avg], and are least driven by heritage/character cues (Q15–Q17).
 - Positioning & creative: Design-first storytelling with visible tech; sleek visuals, UI/UX demos, “always up to date.”
 - Product & pricing: Premium trims; tech + aesthetics bundles; consider OTA/subscription features.
 - Next tests: A/B “latest tech” vs “style/design” ads; measure CTR→CVR and premium-trim mix.
 
-**Cluster 2 — Value-First Convenience Seekers (43%)**
+## Cluster 2 — Value-First Convenience Seekers (43%)
 Profile: Low Ideal_Price (cost-sensitive) comes first. They show less interest in tech and driving performance (Q1–Q8) and sit below average on style/design & self-expression (Q9–Q14), with limited pull from heritage/character (Q15–Q17). Practicality and total cost dominate.
 - Positioning & creative: Lead with affordability, transparent pricing/financing, warranty and fuel-economy claims; remove friction in the path to buy.
 - Product & pricing: Base/entry trims, value packs, service incentives; emphasize TCO and reliability.
 - Next tests: Offer-led experiments (APR, cash back) by segment; track uptake vs margin.
 
-**Cluster 3 — Heritage & Character Loyalists (11%)**
+## Cluster 3 — Heritage & Character Loyalists (11%)
 Profile: Highest on domestic/heritage/character (Q15–Q17) and premium price tolerance [+$28.9k vs avg]. They’re near average on style/self-expression (Q9–Q14) but lower on latest tech and drive/performance (Q1–Q8). Identity and provenance matter more than specs.
 - Positioning & creative: Brand storytelling, craftsmanship, provenance; community/cult-following content; lean into authenticity.
 - Product & pricing: Limited/heritage editions, collectible options, branded accessories, loyalty programs.
 - Next tests: Story-led vs spec-led creatives; measure engagement, accessory attach, and high-margin package mix.
 
-**Cluster 4 — Performance-Reliability Realists (24%)**
+## Cluster 4 — Performance-Reliability Realists (24%)
 Profile (what defines them): Strongest on tech + quality/reliability + ride/handling/performance (Q1–Q8). Ideal_Price is about average [≈ $29.8k], while style/self-expression (Q9–Q14) and heritage (Q15–Q17) are less influential. They value how the car drives and holds up.
 - Positioning & creative: Proof-heavy messaging — safety data, reliability stats, handling/road-feel demos; pragmatic tone.
 - Product & pricing: Mid→upper functional trims (performance & safety packages); extended-warranty angles.
 - Next tests: “Handling/safety” vs “value/comfort” narratives; track test-drive bookings and close rate.
-
-(Optional validation) Compare Purchase rates by segment post-hoc to check directional lift.
