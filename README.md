@@ -17,12 +17,12 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 
 # 3. Segmentation
 
-## Variables for Clustering
+### Variables for Clustering
 - Ideal_price: Intended spend (in increments of $1,000)
 -   Q1-Q17: 1-7 Likert-scale agreement with statements about technology, quality/reliability, driving experience (ride, handling, performance), style/self-expression, and domestic/heritage/character.
 -   Purchase (0/1): Binary observation; equals 1 if the customer purchased a car within six months after completing the survey and equals 0 otherwise.
 
-## Clustering workflow
+### Clustering workflow
 **(1) Preprocess data:** Standardized features (Ideal_Price + Likert) using StandardScale to equalize scales
 
 **(2) Determine optimal k value:**
@@ -37,6 +37,7 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 - Produced cluster centers in both standardized units and original units
 - Validation: k=4 displayed interpretable cluster profiles and stability (re-seed/nearby k)
 
+### Output
 **Cluster means in standardized units (z-scores):**
 <p align="center">
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/f7e79f3e-464d-4004-80cb-9e6297d960f8" />
