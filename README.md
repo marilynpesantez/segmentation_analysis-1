@@ -18,9 +18,7 @@ Actions: Emphasis on brand storytelling with authenticity cues; push limited/her
 Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, handling); pragmatic tone and language.
 
 
-# 4. Segmentation
-
-## Variables for Clustering
+# 3. Variables for Clustering
 - Ideal_price: Intended spend (in increments of $1,000)
 -   Q1-Q17: 1-7 Likert-scale agreement with statements about technology, quality/reliability, driving experience (ride, handling, performance), style/self-expression, and domestic/heritage/character.
 -   Purchase (0/1): Binary observation; equals 1 if the customer purchased a car within six months after completing the survey and equals 0 otherwise.
