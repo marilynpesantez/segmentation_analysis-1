@@ -54,7 +54,7 @@ Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, h
 </p>
 
 
-## 4. Cluster Profiles & Emplications
+## 4. Cluster Profiles & Implications
 For each cluster, I interpreted cluster means to identify defining attributes and translated those patterns into psychographic and price tolerance profiles. I also outline actionable next steps across product, pricing, and marketing.
 
 ### Cluster 1 — Tech-Forward Stylists (21%)
