@@ -1,4 +1,4 @@
-## 1. Overview
+## 1. Project Overview
 This project applies customer segmentation to the new-car market using survey responses in car_data.csv. The objective of this project is to **identify distinct consumer segments** from psychographic elements and willingness to pay to inform product, pricing, and marketing strategy.
 
 ## 2. Executive Summary
@@ -15,7 +15,7 @@ Actions: Emphasis on brand storytelling with authenticity cues; push limited/her
 Actions: Feature-led marketing and proof-heavy marketing (safety, reliability, handling); pragmatic tone and language.
 
 
-## 3. Segmentation
+## 3. Segmentation Methodology
 
 ### Variables for Clustering
 - Ideal_price: Intended spend (in increments of $1,000)
